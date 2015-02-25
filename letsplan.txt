@@ -5,3 +5,4 @@ comedy
 music
 theater!
 walking tour
+Is there a walking tour?
